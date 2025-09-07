@@ -8,7 +8,7 @@ Package repositories served via the [HS Esslingen Mirror](http://mirror1.hs-essl
 
 | Alpine Version | Docker Tag                           |
 | -------------- | ------------------------------------ |
-| edge (master)  | `drbroiler/docker-nettools`       |
+| edge (master)  | `drbroiler/nettools`       |
 
 
 ## Included Tools
