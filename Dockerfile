@@ -1,4 +1,4 @@
-FROM drbroiler/docker-alpine:edge
+FROM drbroiler/alpine:edge
 
 RUN apk add --no-cache \
     bash \
